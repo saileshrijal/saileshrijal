@@ -1,7 +1,3 @@
-
-  <img src="https://private-user-images.githubusercontent.com/88402075/260763828-7a930d4c-483e-4853-b1ee-ecfa5f3ef724.gif](https://private-user-images.githubusercontent.com/88402075/260763828-7a930d4c-483e-4853-b1ee-ecfa5f3ef724.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIxNjE1MjAsIm5iZiI6MTcxMjE2MTIyMCwicGF0aCI6Ii84ODQwMjA3NS8yNjA3NjM4MjgtN2E5MzBkNGMtNDgzZS00ODUzLWIxZWUtZWNmYTVmM2VmNzI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAzVDE2MjAyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyNmZjZDlkNDMwNTNlMjA4NGIyNGZmOTUzZjQ5MjMzOTViZWJkNGNmZjlmODBlNDVhOGIyNmE5ODIzYmI4YjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ECcx9CGH2fHGurzHLxV0B7otqlbPesjgzA6JziuEbGQ"  />
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saileshrijal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saileshrijal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saileshrijal) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/saileshrijal) 
 
