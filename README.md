@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saileshrijal/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/rijalsailesh_/)](https://www.instagram.com/rijalsailesh_)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saileshrijal01@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=saileshrijal.com.np)](saileshrijal.com.np)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=saileshrijal.com.np)](https://www.saileshrijal.com.np)
 [![Github](https://img.shields.io/github/followers/saileshrijal?label=Follow&style=social)](https://github.com/saileshrijal)
 
 👨‍💻 I'm a passionate Fullstack Developer with a keen interest in Blazor, MAUI Blazor Hybrid, WebAPI, Cosmos DB, and SQL Server. My journey in the tech world has led me to specialize in creating efficient, scalable, and dynamic web applications.
